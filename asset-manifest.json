@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/venmail/static/css/main.8179a82f.css",
+    "main.js": "/venmail/static/js/main.4ba57bd6.js",
+    "index.html": "/venmail/index.html",
+    "main.8179a82f.css.map": "/venmail/static/css/main.8179a82f.css.map",
+    "main.4ba57bd6.js.map": "/venmail/static/js/main.4ba57bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8179a82f.css",
+    "static/js/main.4ba57bd6.js"
+  ]
+}
